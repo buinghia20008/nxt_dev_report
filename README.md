@@ -22,4 +22,5 @@ This is a free tool it will not have full power, if you need vip tool contact me
 nxt_dev (Report TikTok Free .-.)
 ```
 
-![test](https://user-images.githubusercontent.com/112190071/199890606-8b1f0614-6abd-4365-8881-9392541ba492.png)
+
+![test](https://user-images.githubusercontent.com/112190071/199890968-29b1486f-d452-47c1-8d84-e546787252c1.png)
