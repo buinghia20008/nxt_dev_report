@@ -3,7 +3,7 @@
 # 🚀 NXT_DEV: Release v1 - Free Report TikTok  🚀
 
 # Cách Sử Dụng !
-git clone https://github.com/nxtdeptrai207/nxt_dev_report ```cd nxt_dev_report
+git clone https://github.com/nxtdeptrai207/nxt_dev_report ``` cd nxt_dev_report
 py nxt-report.py
 Nếu Còn lỗi Hãy pip and npm những thư viện còn thiếu !
 
