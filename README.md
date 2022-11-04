@@ -13,12 +13,11 @@ This tool I made for entertainment purposes, I will not be responsible for what 
 This is a free tool it will not have full power, if you need vip tool contact me to buy it!```
 
 # CONTACT:
-``
-Facebook : https://www.facebook.com/NgXuanTruong.Profile.Immortal/
-Zalo : 0564731627
-```
+# Facebook : https://www.facebook.com/NgXuanTruong.Profile.Immortal/
+# Zalo : 0564731627
 
-#Credits
+
+# Credits
 ```
 nxt_dev (Report TikTok Free .-.)
 ```
