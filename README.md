@@ -2,25 +2,5 @@
  
 # 🚀 NXT_DEV: Release v1 - Free Report TikTok  🚀
 
-# Info
-- [x] Not Source
-- [x] Powerful
-- [x] Report account
-
-# TOS:
-```sh
-This tool I made for entertainment purposes, I will not be responsible for what you do!
-This is a free tool it will not have full power, if you need vip tool contact me to buy it!```
-
-# CONTACT:
-# Facebook : https://www.facebook.com/NgXuanTruong.Profile.Immortal/
-# Zalo : 0564731627
-
-
-# Credits
-```
-nxt_dev (Report TikTok Free .-.)
-```
-
 
 ![test](https://user-images.githubusercontent.com/112190071/199890968-29b1486f-d452-47c1-8d84-e546787252c1.png)
